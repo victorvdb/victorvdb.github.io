@@ -17,7 +17,7 @@
 # Site settings
 title                   : "vdb.ai"
 title_separator         : "-"
-subtitle                : "Below site title in masthead"
+subtitle                : "" # This comes below the vdb.ai up top. 
 email                   :
 url                     : "https://vdb.ai"
 baseurl                 : "/"
