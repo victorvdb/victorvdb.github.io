@@ -77,16 +77,16 @@ I was a junior SAS consultant in the program Toeslagen 2009, responsible for dev
 
 **[Deeplearning.ai](https://www.deeplearning.ai)** \
 _2020_ Generative Adversarial Networks \
-_2017 - 2018_ Deep Learning Specialization \
+_2017 - 2018_ Deep Learning Specialization
 
-**[scrum.org](https://www.scrum.org) \
+**[scrum.org](https://www.scrum.org)** \
 _2019_ Professional Scrum Product Owner I \
 
 **[Coursera](https://www.coursera.org/)** \
 _2015_ Data Science Specialization by Johns Hopkins University
 
-**[PW Consluting](https://www.pwconsulting.nl)**
-_2008_ SAS masterclass \
+**[PW Consluting](https://www.pwconsulting.nl)** \
+_2008_ SAS masterclass
 
-**[Eindhoven University of Technology](https://www.tue.nl/en/)**
+**[Eindhoven University of Technology](https://www.tue.nl/en/)** \
 _1999 - 2005_ Master of Science in Industrial Engineering and Management Science
