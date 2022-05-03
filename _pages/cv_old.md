@@ -80,7 +80,7 @@ _2020_ Generative Adversarial Networks \
 _2017 - 2018_ Deep Learning Specialization
 
 **[scrum.org](https://www.scrum.org)** \
-_2019_ Professional Scrum Product Owner I \
+_2019_ Professional Scrum Product Owner I
 
 **[Coursera](https://www.coursera.org/)** \
 _2015_ Data Science Specialization by Johns Hopkins University
