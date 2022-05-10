@@ -1,5 +1,10 @@
+---
+---  
+
 main:
   - title: "About"
     url: /about/
   - title: "CV"
     url: /cv/
+  - title: "{{ page.url }}"
+    url: /test_en_i18n/
