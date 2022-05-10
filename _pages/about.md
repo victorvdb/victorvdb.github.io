@@ -7,6 +7,10 @@ I am a business oriented data scientist. Combining an educational background in 
 
 Check out my [cv](/cv) for more information!
 
-{{ site.url }}
-{{ site.baseurl ß}}
-{{ site.pageurl }}
+site.url = { site.url }}
+
+site.baseurl = {{ site.baseurl }}
+
+site.pageurl = {{ site.pageurl }}
+
+page.url = {{ page.url }}
