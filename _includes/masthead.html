@@ -12,14 +12,14 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links" id="nl_nav">
-          {%- for link in site.data.navigation.main -%}
+          {%- for link in site.data.navigation.dutch_navigation -%}
             <li class="masthead__menu-item">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
           {%- endfor -%}
         </ul>
         <ul class="visible-links" id="en_nav">
-          {%- for link in site.data.navigation.main -%}
+          {%- for link in site.data.navigation.english_navigation -%}
             <li class="masthead__menu-item">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>ENEN{{ link.title }}</a>
             </li>
@@ -42,8 +42,7 @@
 </div>
 <div id='test'></div>
 <script>
-  let position = window.location.href.search("/en/");
-  if (position > 0) {
+  if (window.location.href.search("/en/") > 0) {
     document.getElementById("nl_nav").style.display = "none";
   }
   else {

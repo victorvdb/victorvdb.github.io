@@ -1,5 +1,12 @@
-main:
+dutch_navigation:
+  - title: "Over mij"
+    url: /over_mij/
+  - title: "CV"
+    url: /cv/
+
+
+english_navigation:
   - title: "About"
-    url: /about/
+    url: /en/about/
   - title: "CV"
     url: /cv/
