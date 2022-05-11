@@ -35,5 +35,8 @@
 </div>
 <div id='test'></div>
 <script>
-  document.getElementById("test-nav").innerHTML = window.location.href.search("/en/");
+  let position = window.location.href.search("/en/");
+  if (position > 0) {
+    document.getElementById("site-nav").style.display = "none";
+  }
 </script>
