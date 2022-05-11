@@ -18,6 +18,13 @@
             </li>
           {%- endfor -%}
         </ul>
+        <ul class="visible-links" id="to_show" style="display:none">
+          {%- for link in site.data.navigation.main -%}
+            <li class="masthead__menu-item">
+              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>ENEN{{ link.title }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
@@ -38,5 +45,6 @@
   let position = window.location.href.search("/en/");
   if (position > 0) {
     document.getElementById("to_hide").style.display = "none";
+    document.getElementById("to_show").style.display = "initial";
   }
 </script>
