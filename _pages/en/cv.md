@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Victor van den Broek
+permalink: /en/cv
 ---
 # Victor van den Broek
 Data scientist, AI strategist, lecturer, product owner
