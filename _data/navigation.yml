@@ -1,4 +1,6 @@
 dutch_navigation:
+  - title: "EN"
+    url: /en/
   - title: "Over mij"
     url: /over_mij/
   - title: "CV"
@@ -6,6 +8,8 @@ dutch_navigation:
 
 
 english_navigation:
+  - title: "NL"
+    url: /
   - title: "About"
     url: /en/about/
   - title: "CV"
