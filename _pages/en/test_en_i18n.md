@@ -13,3 +13,5 @@ site.baseurl = {{ site.baseurl }}
 site.pageurl = {{ site.pageurl }}
 
 page.url = {{ page.url }}
+
+page.locale = {{ page.locale }}
