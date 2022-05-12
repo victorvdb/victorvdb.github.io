@@ -19,65 +19,65 @@ Interim product owner advanced analytics @ NS
 
 1 Oktober 2022
 
-## Employment History
-`2020-present`
-__Freelance data scientist__ at [_vdb.ai_](https://vdb.ai)
+## Werkgeschiedenis
+`2020-huidig`
+__Freelance data scientist__ bij [_vdb.ai_](https://vdb.ai)
 
 `2018-2021`
-__Angel investor and partner__ at _Cubonacci_ (now part of [Databricks](https://databricks.com/blog/2021/07/02/a-shared-vision-for-data-teams-why-cubonacci-joined-databricks.html))
+__Angel investor eb partner__ bij _Cubonacci_ (now part of [Databricks](https://databricks.com/blog/2021/07/02/a-shared-vision-for-data-teams-why-cubonacci-joined-databricks.html))
 
 `2010-2020`
-__Data scientist and partner__ at _Maneros_ (now part of [Digital Power](https://digital-power.com/maneros))
+__Data scientist en partner__ bij _Maneros_ (now part of [Digital Power](https://digital-power.com/maneros))
 
 `2008-2010`
-__SAS consultant__ at [_PW Consulting_](https://www.pwconsulting.nl)
+__SAS consultant__ bij [_PW Consulting_](https://www.pwconsulting.nl)
 
-## Projects at customers
+## Projecten bij klanten
 
-`2022-present`
-__Primary data lecturer__ at [_De Nederlandsche Bank_](https://www.dnb.nl/en/)
+`2022-huidig`
+__Hoofd data docent__ bij [_De Nederlandsche Bank_](https://www.dnb.nl/)
 
-`2021-present`
-__Interim product owner advanced analytics__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+`2021-huidig`
+__Interim product owner advanced analytics__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl/)
 
-`2019-present`
-__Lecturer Data Science for Business__ at [_Utrecht University of Applied Sciences_](https://www.internatonalhu.com)
+`2019-huidig`
+__Docent Data Science for Business__ bij [_Hogeschool Utrecht_](https://www.hu.nl)
 
 `2020-2021`
-__Information architect__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+__Informatie architect__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl)
 
 `2019-2021`
-__Data science engineer__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+__Data science engineer__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl)
 
 `2019-2020`
-__Data architect__ at [_RNW Media_](https://www.rnw.org)
+__Data architect__ bij [_RNW Media_](https://www.rnw.org)
 
 `2019`
-__Data scientist__ at [_Vitens_](https://www.vitens.nl)
+__Data scientist__ bij [_Vitens_](https://www.vitens.nl)
 
 `2017-2018`
-__Agile data scientist__ at [_VGZ_](https://www.vgz.nl/english)
+__Agile data scientist__ bij [_VGZ_](https://www.vgz.nl/)
 
 `2014`
-__Workstream lead business intelligence and datawarehousing__ at [_Office Depot Europe_](https://www.officedepot.eu)
+__Workstream lead business intelligence and datawarehousing__ bij [_Office Depot Europe_](https://www.officedepot.eu)
 
 `2012-2014`
-__Business intelligence architect__ at [_Office Depot Europe_](https://www.officedepot.eu)
+__Business intelligence architect__ bij [_Office Depot Europe_](https://www.officedepot.eu)
 
 `2011-2017`
-__Data scientist__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+__Data scientist__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl)
 
 `2010-2012`
-__SAS consultant__ at [_Office Depot Europe_](https://www.officedepot.eu)
+__SAS consultant__ bij [_Office Depot Europe_](https://www.officedepot.eu)
 
 `2009-2010`
-__SAS consultant__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+__SAS consultant__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl/)
 
 `2008-2009`
-__SAS consultant__ at [_Belastingdienst_](https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/individuals)
+__SAS consultant__ bij [_Belastingdienst_](https://www.belastingdienst.nl/)
 
 
-## Education & courses
+## Opleiding en Cursussen
 
 `2020`
 __Deeplearning.ai via coursera.org__
@@ -97,10 +97,10 @@ __PW Consulting, Culemborg__
 
 `1999-2005`
 __Eindhoven University of Technology__
-- Master of Science in Industrial Engineering and Management Science
+- Master of Science in Technische Bedrijfskunde
 
 
-## Certification
+## Certificaten
 
 `2019`
 [Professional Scrum Product Owner I](https://www.credly.com/badges/f30f95e1-5fed-49bb-8e06-74cf9e5ff5ca/public_url)
