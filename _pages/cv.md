@@ -1,23 +1,23 @@
 ---
 layout: cv
 title: Victor van den Broek
-permalink: /en/cv/
+permalink: /cv/
 ---
 # Victor van den Broek
-Data scientist, AI strategist, lecturer, product owner
+Data scientist, AI strateeg, docent, product owner
 
 <div id="webaddress">
-victor at <a href="https://vdb.ai/en/">vdb.ai</a> | <a href="https://www.linkedin.com/in/victorvdb/">LinkedIn</a>
+victor at <a href="https://vdb.ai/">vdb.ai</a> | <a href="https://www.linkedin.com/in/victorvdb/">LinkedIn</a>
 </div>
 
 
-## Currently
+## Huidige inzet
 
 Interim product owner advanced analytics @ NS
 
-### Next availability
+### Volgende beschikbaarheid
 
-October 1st, 2022
+1 Oktober 2022
 
 ## Employment History
 `2020-present`
