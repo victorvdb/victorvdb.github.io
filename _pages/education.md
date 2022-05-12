@@ -1,4 +1,4 @@
 ---
-permalink: /education/
-title: "Education"
+permalink: /onderwijs/
+title: "Onderwijs"
 ---

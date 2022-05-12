@@ -1,4 +1,4 @@
 ---
-permalink: /inspiration/
-title: "Inspiration"
+permalink: /inspiratie/
+title: "Inspiratie"
 ---
