@@ -26,7 +26,7 @@ description             : >- # this means to ignore newlines until "baseurl:"
 twitter_username        : victorvdb
 github_username         : victorvdb
 minimal_mistakes_skin   : default
-search                  : true
+search                  : false
 
 # Build settings
 markdown                : kramdown

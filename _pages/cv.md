@@ -7,7 +7,7 @@ permalink: /cv/
 Data scientist, AI strateeg, docent, product owner
 
 <div id="webaddress">
-victor at <a href="https://vdb.ai/">vdb.ai</a> | <a href="https://www.linkedin.com/in/victorvdb/">LinkedIn</a>
+victor at <a href="https://vdb.ai/">vdb.ai</a> | <a href="https://www.linkedin.com/in/victorvdb/">LinkedIn</a> | [Prefer English?](https://vdb.ai/en/cv/)
 </div>
 
 
