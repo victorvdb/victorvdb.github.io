@@ -24,7 +24,7 @@ Interim product owner advanced analytics @ NS
 __Freelance data scientist__ bij [_vdb.ai_](https://vdb.ai)
 
 `2018-2021`
-__Angel investor eb partner__ bij _Cubonacci_ (nu onderdeel van [Databricks](https://databricks.com/blog/2021/07/02/a-shared-vision-for-data-teams-why-cubonacci-joined-databricks.html))
+__Angel investor en partner__ bij _Cubonacci_ (nu onderdeel van [Databricks](https://databricks.com/blog/2021/07/02/a-shared-vision-for-data-teams-why-cubonacci-joined-databricks.html))
 
 `2010-2020`
 __Data scientist en partner__ bij _Maneros_ (nu onderdeel van [Digital Power](https://digital-power.com/maneros))
