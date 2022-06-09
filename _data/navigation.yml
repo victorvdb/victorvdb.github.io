@@ -1,16 +1,16 @@
 dutch_navigation:
-  - title: "EN"
-    url: /en/
   - title: "Over mij"
     url: /over_mij/
   - title: "CV"
     url: /cv/
+  - title: "EN"
+    url: /en/
 
 
 english_navigation:
-  - title: "NL"
-    url: /
   - title: "About"
     url: /en/about/
   - title: "CV"
     url: /en/cv/
+  - title: "NL"
+    url: /

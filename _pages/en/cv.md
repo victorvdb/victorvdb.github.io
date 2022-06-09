@@ -41,7 +41,7 @@ __Primary data lecturer__ at [_De Nederlandsche Bank_](https://www.dnb.nl/en/)
 __Interim product owner advanced analytics__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
 
 `2019-present`
-__Lecturer Data Science for Business__ at [_Utrecht University of Applied Sciences_](https://www.internatonalhu.com)
+__Lecturer data science for business__ at [_Utrecht University of Applied Sciences_](https://www.internatonalhu.com)
 
 `2020-2021`
 __Information architect__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)

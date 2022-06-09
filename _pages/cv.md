@@ -41,7 +41,7 @@ __Hoofd data docent__ bij [_De Nederlandsche Bank_](https://www.dnb.nl/)
 __Interim product owner advanced analytics__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl/)
 
 `2019-huidig`
-__Docent Data Science for Business__ bij [_Hogeschool Utrecht_](https://www.hu.nl)
+__Docent data science for business__ bij [_Hogeschool Utrecht_](https://www.hu.nl)
 
 `2020-2021`
 __Informatie architect__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl)
