@@ -16,7 +16,7 @@ Ik heb een leergierige en pragmatische instelling. Door vooral te focussen op wa
 
 ## Huidige inzet
 
-Interim product owner advanced analytics @ NS
+__Interim product owner advanced analytics__ @ NS
 
 Ik ben bij de Nederlandse spoorwegen verantwoordelijk voor het opnieuw ontwikkelen van een model over reizigersstromen. Dit model gaat vier oude modellen vervangen, en wordt ontwikkeld door een nieuw team op databricks binnen de Azure cloud. Binnen een jaar gaan we van geen team en geen infrastructuur naar het ontwikkelde model en een volwassen agile team.
 
