@@ -10,10 +10,15 @@ Data scientist, AI strateeg, docent, product owner
 victor at <a href="https://vdb.ai/">vdb.ai</a> | <a href="https://www.linkedin.com/in/victorvdb/">LinkedIn</a>
 </div>
 
+## In het kort
+
+Ik heb een leergierige en pragmatische instelling. Door vooral te focussen op wat echt belangrijk is voor de business, voeg ik snel waarde toe, maar draag ik ook zorg voor het borgen van oplossingen in de organisatie voor de langere termijn.
 
 ## Huidige inzet
 
 Interim product owner advanced analytics @ NS
+
+Ik ben bij de Nederlandse spoorwegen verantwoordelijk voor het opnieuw ontwikkelen van een model over reizigersstromen. Dit model gaat vier oude modellen vervangen, en wordt ontwikkeld door een nieuw team op databricks binnen de Azure cloud. Binnen een jaar gaan we van geen team en geen infrastructuur naar het ontwikkelde model en een volwassen agile team.
 
 ### Volgende beschikbaarheid
 

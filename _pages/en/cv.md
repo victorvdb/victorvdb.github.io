@@ -10,10 +10,15 @@ Data scientist, AI strategist, lecturer, product owner
 victor at <a href="https://vdb.ai/en/">vdb.ai</a> | <a href="https://www.linkedin.com/in/victorvdb/">LinkedIn</a>
 </div>
 
+## In summary
+
+I have a curious and pragmatic mindset. By focussing on what really matters to the business, I add value quickly, but also care for longer term perspectives and embedding solutions within the organisation.
 
 ## Currently
 
 Interim product owner advanced analytics @ NS
+
+At the Dutch railways I am responsible for re-developing a model regarding traveller flows. This model will replace four old models, and is developed by a new team using databricks on the Azure cloud. Within one year, we'll have gone from no team and no infrastructure, to a developed model and a mature agile team.
 
 ### Next availability
 
