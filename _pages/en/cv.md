@@ -4,7 +4,7 @@ title: Victor van den Broek
 permalink: /en/cv/
 ---
 # Victor van den Broek
-Data scientist, AI strategist, lecturer, product owner
+Data scientist, AI strategist, architect, product owner
 
 <div id="webaddress">
 victor at <a href="https://vdb.ai/en/">vdb.ai</a> | <a href="https://www.linkedin.com/in/victorvdb/">LinkedIn</a>
@@ -26,7 +26,7 @@ October 1st, 2022
 
 ## Employment History
 `2020-present`
-__Freelance data scientist__ at [_vdb.ai_](https://vdb.ai)
+__Freelance data professional__ at [_vdb.ai_](https://vdb.ai)
 
 `2018-2021`
 __Angel investor and partner__ at _Cubonacci_ (now part of [Databricks](https://databricks.com/blog/2021/07/02/a-shared-vision-for-data-teams-why-cubonacci-joined-databricks.html))
