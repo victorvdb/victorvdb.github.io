@@ -92,7 +92,7 @@ In het kader van het World Class BI programma heb ik als architect de basisarchi
 `2011-2017`
 __Data scientist__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl)
 
-Voor NS heb ik verscheidene projecten tot een succesvol einde gebracht met het team van Maneros, van initiatie tot en met oplevering. Dit waren projecten op over wachtrijmodellering, een klantinvesteringsmodel, een klanttevredenheidsmodel en reizigersstroommodellering. NS werkte destijds nog niet agile, maar mijn verantwoordelijkheden waren vergelijkbaar met wat nu een product owner zou zijn.
+Voor NS heb ik verscheidene projecten tot een succesvol einde gebracht met het team van Maneros aangevuld met medewerkers van NS, van initiatie tot en met oplevering. Dit waren projecten op over wachtrijmodellering, een klantinvesteringsmodel, een klanttevredenheidsmodel en reizigersstroommodellering. NS werkte destijds nog niet agile, maar mijn verantwoordelijkheden waren vergelijkbaar met wat nu een product owner zou zijn.
 
 `2010-2012`
 __SAS consultant__ bij [_Office Depot Europe_](https://www.officedepot.eu)
