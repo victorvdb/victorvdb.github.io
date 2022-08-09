@@ -12,7 +12,7 @@ victor at <a href="https://vdb.ai/">vdb.ai</a> | <a href="https://www.linkedin.c
 
 ## In het kort
 
-Ik heb een leergierige en pragmatische instelling. Door vooral te focussen op wat echt belangrijk is voor de business, voeg ik snel waarde toe, maar draag ik ook zorg voor het borgen van oplossingen in de organisatie voor de langere termijn.
+Ik heb een leergierige en pragmatische instelling. Door vooral te focussen op wat echt waardevol is voor de business, voeg ik snel waarde toe, maar draag ik ook zorg voor het borgen van oplossingen voor de langere termijn onder architectuur en in de organisatie. Ik kan een verscheidenheid aan rollen invullen, van product owner tot data architect en van ai strateeg tot data scientist.
 
 ## Huidige inzet
 
@@ -67,7 +67,7 @@ Voor NS Stations heb ik een reizigersstroom model verder ontwikkeld, met toepass
 `2019-2020`
 __Data architect__ bij [_RNW Media_](https://www.rnw.org)
 
-Voor RNW Media heb ik een data lake architectuur ontworpen en verder draagvlak gecreeerd voor implementatie. Dit data lake is gebouwd met behulp van Google Cloud Platform en Apache Airflow.
+Voor RNW Media heb ik een data lake architectuur ontworpen en verder draagvlak gecreeerd voor implementatie. Dit data lake is gebouwd met behulp van Google Cloud Platform en Apache Airflow. Binnen het team vulde ik de product owner aan voor de backlog en stakeholder management rondom het data lake.
 
 `2019`
 __Data scientist__ bij [_Vitens_](https://www.vitens.nl)
@@ -77,7 +77,7 @@ Bij Vitens heb ik verscheidene data analyse en science vraagstukken opgepakt, ro
 `2017-2018`
 __Agile data scientist__ bij [_VGZ_](https://www.vgz.nl/)
 
-Tijdens de agile transitie van VGZ heb ik het data science team van Klant en Marktadvies ondersteund. Hier heb ik aan verscheidene epics meegewerkt, onder andere op gebied van customer value en churn.
+Tijdens de agile transitie van VGZ heb ik het data science team van Klant en Marktadvies ondersteund. Hier heb ik aan verscheidene epics meegewerkt, onder andere op gebied van customer value en churn, evenals het volwassener maken van het team op gebied van scrum.
 
 `2014`
 __Workstream lead business intelligence and datawarehousing__ bij [_Office Depot Europe_](https://www.officedepot.eu)
@@ -92,7 +92,7 @@ In het kader van het World Class BI programma heb ik als architect de basisarchi
 `2011-2017`
 __Data scientist__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl)
 
-Voor NS heb ik verscheidene projecten uitgevoerd, op gebied van klanttevredenheid, reizigersstromen, klantinvesteringmodellen, en wachtrijmodellering.
+Voor NS heb ik verscheidene projecten tot een succesvol einde gebracht met het team van Maneros, van initiatie tot en met oplevering. Dit waren projecten op over wachtrijmodellering, een klantinvesteringsmodel, een klanttevredenheidsmodel en reizigersstroommodellering. NS werkte destijds nog niet agile, maar mijn verantwoordelijkheden waren vergelijkbaar met wat nu een product owner zou zijn.
 
 `2010-2012`
 __SAS consultant__ bij [_Office Depot Europe_](https://www.officedepot.eu)
