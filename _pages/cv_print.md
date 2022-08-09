@@ -77,7 +77,7 @@ Bij Vitens heb ik verscheidene data analyse en science vraagstukken opgepakt, ro
 `juni 2017 - juni 2018`
 __Agile data scientist__ bij [_VGZ_](https://www.vgz.nl/)
 
-Tijdens de agile transitie van VGZ heb ik het data science team van Klant en Marktadvies ondersteund. Hier heb ik aan verscheidene epics meegewerkt, onder andere op gebied van customer value en churn, evenals het volwassener maken van het team op gebied van scrum.
+Tijdens de agile transitie van VGZ heb ik het data science team van Klant en Marktadvies ondersteund. Hier heb ik aan verscheidene epics meegewerkt, onder andere op gebied van customer value en churn, evenals het volwassener maken van het team, scrum master en product owner op gebied van scrum en agile werken.
 
 `april 2014 - december 2014`
 __Workstream lead business intelligence and datawarehousing__ bij [_Office Depot Europe_](https://www.officedepot.eu)
