@@ -44,7 +44,7 @@ __Hoofd data docent__ bij [_De Nederlandsche Bank_](https://www.dnb.nl/)
 
 Voor de Nederlandsche Bank heb ik een in-company cursus ontwikkeld waarin basis-vaardigheden op gebied van data bijgebracht worden. Dit omvat gebieden als data management, data governance, data analytics en data science. Deze cursus geef ik samen met een aantal andere docenten aan een groot aantal medewerkers bij de DNB (>200 medewerkers)
 
-`september 2021 - huidig`
+`september 2021 - september 2022`
 __Interim product owner advanced analytics__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl/)
 
 Ik ben bij de Nederlandse Spoorwegen als product owner verantwoordelijk voor het opnieuw ontwikkelen van een model over reizigersstromen. Dit model gaat vier oude modellen vervangen, en wordt ontwikkeld door een nieuw team op databricks binnen de Azure cloud. Binnen een jaar gaan we van geen team en geen infrastructuur naar het ontwikkelde model en een volwassen agile team.
@@ -92,7 +92,7 @@ In het kader van het World Class BI programma heb ik als architect de basisarchi
 `oktober 2011 - februari 2017`
 __Data scientist__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl)
 
-Voor NS heb ik verscheidene projecten tot een succesvol einde gebracht met het team van Maneros aangevuld met medewerkers van NS, van initiatie tot en met oplevering, op basis van fixed-price offertes. Dit waren projecten op over wachtrijmodellering, een klantinvesteringsmodel, een klanttevredenheidsmodel en reizigersstroommodellering. NS werkte destijds nog niet agile, maar mijn verantwoordelijkheden waren vergelijkbaar met wat nu een product owner zou zijn.
+Voor NS heb ik verscheidene projecten tot een succesvol einde gebracht met het team van Maneros aangevuld met medewerkers van NS, van initiatie tot en met oplevering, op basis van fixed-price offertes. Dit waren projecten op over wachtrijmodellering, een klantinvesteringsmodel, een klanttevredenheidsmodel en reizigersstroommodellering. NS werkte destijds nog niet agile/scrum, maar mijn verantwoordelijkheden waren vergelijkbaar met wat nu een product owner zou zijn.
 
 `augustus 2010 - december 2012`
 __SAS consultant__ bij [_Office Depot Europe_](https://www.officedepot.eu)
