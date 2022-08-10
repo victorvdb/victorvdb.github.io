@@ -80,9 +80,9 @@ __Agile data scientist__ bij [_VGZ_](https://www.vgz.nl/)
 Tijdens de agile transitie van VGZ heb ik het data science team van Klant en Marktadvies ondersteund. Hier heb ik aan verscheidene epics meegewerkt, onder andere op gebied van customer value en churn, evenals het volwassener maken van het team, scrum master en product owner op gebied van scrum en agile werken.
 
 `april 2014 - december 2014`
-__Workstream lead business intelligence and datawarehousing__ bij [_Office Depot Europe_](https://www.officedepot.eu)
+__Workstream lead BI en DWH__ bij [_Office Depot Europe_](https://www.officedepot.eu)
 
-Tijdens een lean six sigma verandertraject heb ik de verantwoordelijkheden van workstream lead BI & DWH op me genomen. Hiervoor met behulp van de organisatie een organisatieontwerp en benodigde architectuurveranderingen opgeleverd.
+Tijdens een lean six sigma verandertraject heb ik de verantwoordelijkheden van workstream lead Business Intelligence en Datawarehousing op me genomen. Hiervoor met behulp van de organisatie een organisatieontwerp en benodigde architectuurveranderingen opgeleverd.
 
 `januari 2013 - maart 2014`
 __Business intelligence architect__ bij [_Office Depot Europe_](https://www.officedepot.eu)
