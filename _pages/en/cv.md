@@ -16,13 +16,10 @@ I have a curious and pragmatic mindset. By focussing on what really matters to t
 
 ## Currently
 
-__Interim product owner advanced analytics__ @ NS
+__Reflecting on next steps__ @
 
-At the Dutch railways I am responsible for re-developing a model regarding traveller flows. This model will replace four old models, and is developed by a new team using databricks on the Azure cloud. Within one year, we'll have gone from no team and no infrastructure, to a developed model and a mature agile team.
+After having just finished a 3.5 year assignment at the Dutch Railroads, finishing the sale of Maneros, and winding down Cubonacci, I am taking some time to reflect on my career. I am taking the last quarter of 2022 to decide on my next step and am open to contract and employment options, but also just to meet over coffee.
 
-### Next availability
-
-October 1st, 2022
 
 ## Employment History
 `2020-present`
@@ -41,46 +38,59 @@ __SAS consultant__ at [_PW Consulting_](https://www.pwconsulting.nl)
 
 `2022-present`
 __Primary data lecturer__ at [_De Nederlandsche Bank_](https://www.dnb.nl/en/)
-
-`2021-present`
-__Interim product owner advanced analytics__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+For the Dutch Central bank, I have developed an in-company training to teach the basic skills pertaining to data. This encompasses areas such as data management, data governance, data science and visualization. I teach this course along with other teachers to a large number of employees at the bank (> 200 employees)
 
 `2019-present`
 __Lecturer data science for business__ at [_Utrecht University of Applied Sciences_](https://www.internatonalhu.com)
+Together with two other teachers I teach the course Data Science for Business. The part time students can either have a data or a business background, and the course teaches data science basics, along with CRISP-DM as a framework to ensure business value.
+
+`2021-2022`
+__Interim product owner advanced analytics__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+As a product owner of a newly formed team, I was responsible for the re-development of a traveller model. Four legacy models existed, with conflicting requirements and results, which needed to be merged into one model, in the Azure cloud using Databricks.
 
 `2020-2021`
 __Information architect__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+For the department ComIT (Commerce + IT) I have analysed and mapped the required data and information architecture for several projects. Many of them were related to a legacy-to-cloud migration.
 
 `2019-2021`
 __Data science engineer__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+For NS Stations I improved an existing traveller model, by developing a bespoke machine learning architecture that could optimize several necessary parameters. The results formed the basis for the model that would be developed in the Azure cloud (see Interim PO @ NS)
 
 `2019-2020`
 __Data architect__ at [_RNW Media_](https://www.rnw.org)
+For RNW Media (a non-profit) I was responsible for developing a data architecture, and to develop support for implementing it when necessary. The end result - a data architecture on GCP using Apache Airflow was later developed and implemented.
 
 `2019`
 __Data scientist__ at [_Vitens_](https://www.vitens.nl)
+At Vitens (a water company) I took up several analyses and data science topics, surrounding customer satisfaction and speech analytics.
 
 `2017-2018`
 __Agile data scientist__ at [_VGZ_](https://www.vgz.nl/english)
+During the agile transition of VGZ (a major health insurer) in the Netherlands, I assisted in improving the team's agile maturity, as well as work on several epics concerning customer churn and customer value.
 
 `2014`
 __Workstream lead business intelligence and datawarehousing__ at [_Office Depot Europe_](https://www.officedepot.eu)
+During a lean six sigma transformation project, I took up the rol of workstream lead BI & DWH, with the resposibility to deliver an organizational structure and identify architectural changes needed.
 
 `2012-2014`
 __Business intelligence architect__ at [_Office Depot Europe_](https://www.officedepot.eu)
+Part of a program called World Class BI, I was responsible to define the SOLL architecture of the BI enviroment. The work on the IST situation was a shared responsibility, due to amount of work required. The program was superseded by a lean six sigma business transformation project.
 
 `2011-2017`
 __Data scientist__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+At the Dutch Railroads I delivered several projects, from initiation to delivery, with consultants from Maneros, together with employees from NS. These projects were surrounding traveller-flow, customer satisfaction, customer investment models, and queue modelling.
 
 `2010-2012`
 __SAS consultant__ at [_Office Depot Europe_](https://www.officedepot.eu)
+As an independent contractor, I went from operationally supporting the mail selection department, to working out a proof of concept for a major improvement on the tooling they were using, to rolling out those improvements over Europe.
 
 `2009-2010`
 __SAS consultant__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+As a consultant for the Dutch Railroads, I worked on developing a custom tool to administer reference and master data for their datawarehouse, as well as develop the first iteration of the datawarehouse concerning the OV Chipkaart.
 
 `2008-2009`
 __SAS consultant__ at [_Belastingdienst_](https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/individuals)
-
+As a junior SAS consultant, I worked in the team delivering the datawarehouse for Toeslagen 2009 - a datawarehouse based on datavault modelling.
 
 ## Education & courses
 
