@@ -16,10 +16,9 @@ I have a curious and pragmatic mindset. By focussing on what really matters to t
 
 ## Currently
 
-__Reflecting on next steps__ @
+__Reflecting on next steps__
 
 After having just finished a 3.5 year assignment at the Dutch Railroads, finishing the sale of Maneros, and winding down Cubonacci, I am taking some time to reflect on my career. I am taking the last quarter of 2022 to decide on my next step and am open to contract and employment options, but also just to meet over coffee.
-
 
 ## Employment History
 `2020-present`
