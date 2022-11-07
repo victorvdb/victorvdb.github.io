@@ -44,7 +44,7 @@ __Hoofd data docent__ bij [_De Nederlandsche Bank_](https://www.dnb.nl/)
 
 Voor de Nederlandsche Bank heb ik een in-company cursus ontwikkeld waarin basis-vaardigheden op gebied van data bijgebracht worden. Dit omvat gebieden als data management, data governance, data analytics en data science. Deze cursus geef ik samen met een aantal andere docenten aan een groot aantal medewerkers bij de DNB (>200 medewerkers)
 
-`2021-huidig`
+`2021-2022`
 __Interim product owner advanced analytics__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl/)
 
 Ik ben bij de Nederlandse spoorwegen verantwoordelijk voor het opnieuw ontwikkelen van een model over reizigersstromen. Dit model gaat vier oude modellen vervangen, en wordt ontwikkeld door een nieuw team op databricks binnen de Azure cloud. Binnen een jaar gaan we van geen team en geen infrastructuur naar het ontwikkelde model en een volwassen agile team.
