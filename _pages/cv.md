@@ -1,115 +1,97 @@
 ---
 layout: cv
 title: Victor van den Broek
-permalink: /cv/
+permalink: /en/cv/
 ---
 # Victor van den Broek
-Data scientist, AI strateeg, architect, product owner
+Data scientist, AI strategist, architect, product owner
 
 <div id="webaddress">
-victor at <a href="https://vdb.ai/">vdb.ai</a> | <a href="https://www.linkedin.com/in/victorvdb/">LinkedIn</a>
+victor at <a href="https://vdb.ai/en/">vdb.ai</a> | <a href="https://www.linkedin.com/in/victorvdb/">LinkedIn</a>
 </div>
 
-## In het kort
+## In summary
 
-Ik heb een leergierige en pragmatische instelling. Door vooral te focussen op wat echt waardevol is voor de business, voeg ik snel waarde toe, maar draag ik ook zorg voor het borgen van oplossingen voor de langere termijn onder architectuur en in de organisatie. Ik kan een verscheidenheid aan rollen invullen, van product owner tot data architect en van ai strateeg tot data scientist.
+I have a curious and pragmatic mindset. By focussing on what really matters to the business, I add value quickly, but also care for longer term perspectives and embedding solutions within the organisation.
 
-## Huidige inzet
+## Currently
 
-__Interim product owner advanced analytics__ @ NS
+__Reflecting on next steps__
 
-Ik ben bij de Nederlandse spoorwegen verantwoordelijk voor het opnieuw ontwikkelen van een model over reizigersstromen. Dit model gaat vier oude modellen vervangen, en wordt ontwikkeld door een nieuw team op databricks binnen de Azure cloud. Binnen een jaar gaan we van geen team en geen infrastructuur naar het ontwikkelde model en een volwassen agile team.
+After having just finished a 3.5 year assignment at the Dutch Railroads, finishing the sale of Maneros, and winding down Cubonacci, I am taking some time to reflect on my career. I am taking the last quarter of 2022 to decide on my next step and am open to contract and employment options, but also just to meet over coffee.
 
-### Volgende beschikbaarheid
-
-1 Oktober 2022
-
-## Werkgeschiedenis
-`2020-huidig`
-__Freelance data professional__ bij [_vdb.ai_](https://vdb.ai)
+## Employment History
+`2020-present`
+__Freelance data professional__ at [_vdb.ai_](https://vdb.ai)
 
 `2018-2021`
-__Angel investor en partner__ bij _Cubonacci_ (nu onderdeel van [Databricks](https://databricks.com/blog/2021/07/02/a-shared-vision-for-data-teams-why-cubonacci-joined-databricks.html))
+__Angel investor and partner__ at _Cubonacci_ (now part of [Databricks](https://databricks.com/blog/2021/07/02/a-shared-vision-for-data-teams-why-cubonacci-joined-databricks.html))
 
 `2010-2020`
-__Data scientist en partner__ bij _Maneros_ (nu onderdeel van [Digital Power](https://digital-power.com/maneros))
+__Data scientist and partner__ at _Maneros_ (now part of [Digital Power](https://digital-power.com/maneros))
 
 `2008-2010`
-__SAS consultant__ bij [_PW Consulting_](https://www.pwconsulting.nl)
+__SAS consultant__ at [_PW Consulting_](https://www.pwconsulting.nl)
 
-## Projecten bij klanten
+## Projects at customers
 
-`2022-huidig`
-__Hoofd data docent__ bij [_De Nederlandsche Bank_](https://www.dnb.nl/)
+`2022-present`
+__Primary data lecturer__ at [_De Nederlandsche Bank_](https://www.dnb.nl/en/)
+For the Dutch Central bank, I have developed an in-company training to teach the basic skills pertaining to data. This encompasses areas such as data management, data governance, data science and visualization. I teach this course along with other teachers to a large number of employees at the bank (> 200 employees)
 
-Voor de Nederlandsche Bank heb ik een in-company cursus ontwikkeld waarin basis-vaardigheden op gebied van data bijgebracht worden. Dit omvat gebieden als data management, data governance, data analytics en data science. Deze cursus geef ik samen met een aantal andere docenten aan een groot aantal medewerkers bij de DNB (>200 medewerkers)
+`2019-present`
+__Lecturer data science for business__ at [_Utrecht University of Applied Sciences_](https://www.internatonalhu.com)
+Together with two other teachers I teach the course Data Science for Business. The part time students can either have a data or a business background, and the course teaches data science basics, along with CRISP-DM as a framework to ensure business value.
 
 `2021-2022`
-__Interim product owner advanced analytics__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl/)
-
-Ik ben bij de Nederlandse spoorwegen verantwoordelijk voor het opnieuw ontwikkelen van een model over reizigersstromen. Dit model gaat vier oude modellen vervangen, en wordt ontwikkeld door een nieuw team op databricks binnen de Azure cloud. Binnen een jaar gaan we van geen team en geen infrastructuur naar het ontwikkelde model en een volwassen agile team.
-
-`2019-huidig`
-__Docent data science for business__ bij [_Hogeschool Utrecht_](https://www.hu.nl)
-
-Voor de Hogeschool Utrecht geef ik samen met twee andere docenten tweemaal per jaar de masterclass Data Science for Business. In deze masterclass leren we deeltijdstudenten hoe je een data science project kan aanpakken binnen hun eigen organisatiecontext, en leren we ze de basis van data science modellen. Het lesmateriaal hebben we destijds zelf ontwikkeld.
+__Interim product owner advanced analytics__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+As a product owner of a newly formed team, I was responsible for the re-development of a traveller model. Four legacy models existed, with conflicting requirements and results, which needed to be merged into one model, in the Azure cloud using Databricks.
 
 `2020-2021`
-__Informatie architect__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl)
-
-Voor de afdeling ComIT (Commercie + IT) heb ik voor verscheidene initiatieven de benodigde informatie en data architectuur in kaart gebracht en ontworpen. Veel van de initatieven hadden betrekking op het migreren van legacy datawarehouses richting de Azure cloud.
+__Information architect__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+For the department ComIT (Commerce + IT) I have analysed and mapped the required data and information architecture for several projects. Many of them were related to a legacy-to-cloud migration.
 
 `2019-2021`
-__Data science engineer__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl)
-
-Voor NS Stations heb ik een reizigersstroom model verder ontwikkeld, met toepassing van een specifiek ontworpen deep learning algoritme voor parameter optimalisatie. Verder heb ik meegewerkt aan het ontwerp voor een gemigreerd model naar de Azure cloud, waar ik vervolgens als interim PO het team ook heb opgebouwd (zie huidige inzet NS)
+__Data science engineer__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+For NS Stations I improved an existing traveller model, by developing a bespoke machine learning architecture that could optimize several necessary parameters. The results formed the basis for the model that would be developed in the Azure cloud (see Interim PO @ NS)
 
 `2019-2020`
-__Data architect__ bij [_RNW Media_](https://www.rnw.org)
-
-Voor RNW Media heb ik een data lake architectuur ontworpen en verder draagvlak gecreeerd voor implementatie. Dit data lake is gebouwd met behulp van Google Cloud Platform en Apache Airflow. Binnen het team vulde ik de product owner aan voor de backlog en stakeholder management rondom het data lake.
+__Data architect__ at [_RNW Media_](https://www.rnw.org)
+For RNW Media (a non-profit) I was responsible for developing a data architecture, and to develop support for implementing it when necessary. The end result - a data architecture on GCP using Apache Airflow was later developed and implemented.
 
 `2019`
-__Data scientist__ bij [_Vitens_](https://www.vitens.nl)
-
-Bij Vitens heb ik verscheidene data analyse en science vraagstukken opgepakt, rondom klanttevredenheid en speech analytics.
+__Data scientist__ at [_Vitens_](https://www.vitens.nl)
+At Vitens (a water company) I took up several analyses and data science topics, surrounding customer satisfaction and speech analytics.
 
 `2017-2018`
-__Agile data scientist__ bij [_VGZ_](https://www.vgz.nl/)
-
-Tijdens de agile transitie van VGZ heb ik het data science team van Klant en Marktadvies ondersteund. Hier heb ik aan verscheidene epics meegewerkt, onder andere op gebied van customer value en churn, evenals het volwassener maken van het team op gebied van scrum.
+__Agile data scientist__ at [_VGZ_](https://www.vgz.nl/english)
+During the agile transition of VGZ (a major health insurer) in the Netherlands, I assisted in improving the team's agile maturity, as well as work on several epics concerning customer churn and customer value.
 
 `2014`
-__Workstream lead business intelligence and datawarehousing__ bij [_Office Depot Europe_](https://www.officedepot.eu)
-
-Tijdens een lean six sigma verandertraject heb ik de verantwoordelijkheden van workstream lead BI & DWH op me genomen. Hiervoor met behulp van de organisatie een organisatieontwerp en benodigde architectuurveranderingen opgeleverd.
+__Workstream lead business intelligence and datawarehousing__ at [_Office Depot Europe_](https://www.officedepot.eu)
+During a lean six sigma transformation project, I took up the rol of workstream lead BI & DWH, with the resposibility to deliver an organizational structure and identify architectural changes needed.
 
 `2012-2014`
-__Business intelligence architect__ bij [_Office Depot Europe_](https://www.officedepot.eu)
-
-In het kader van het World Class BI programma heb ik als architect de basisarchitectuur ontworpen, inclusief roadmap om van de huidige situatie bij de gewenste situatie te komen.
+__Business intelligence architect__ at [_Office Depot Europe_](https://www.officedepot.eu)
+Part of a program called World Class BI, I was responsible to define the SOLL architecture of the BI enviroment. The work on the IST situation was a shared responsibility, due to amount of work required. The program was superseded by a lean six sigma business transformation project.
 
 `2011-2017`
-__Data scientist__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl)
-
-Voor NS heb ik verscheidene projecten tot een succesvol einde gebracht met het team van Maneros aangevuld met medewerkers van NS, van initiatie tot en met oplevering. Dit waren projecten op over wachtrijmodellering, een klantinvesteringsmodel, een klanttevredenheidsmodel en reizigersstroommodellering. NS werkte destijds nog niet agile, maar mijn verantwoordelijkheden waren vergelijkbaar met wat nu een product owner zou zijn.
+__Data scientist__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+At the Dutch Railroads I delivered several projects, from initiation to delivery, with consultants from Maneros, together with employees from NS. These projects were surrounding traveller-flow, customer satisfaction, customer investment models, and queue modelling.
 
 `2010-2012`
-__SAS consultant__ bij [_Office Depot Europe_](https://www.officedepot.eu)
-
-Voor Office Depot heb ik het mail selection team geholpen met doorontwikkeling van hun selectie-tool SAS Campaign Studio, via een proof of concept naar uitrol tot hun gehele europese organisatie.
+__SAS consultant__ at [_Office Depot Europe_](https://www.officedepot.eu)
+As an independent contractor, I went from operationally supporting the mail selection department, to working out a proof of concept for a major improvement on the tooling they were using, to rolling out those improvements over Europe.
 
 `2009-2010`
-__SAS consultant__ bij [_Nederlandse Spoorwegen_](https://www.ns.nl/)
-
-Als SAS consultant bij de NS heb ik het datawarehouse voor de OV-Chipkaart transacties ontworpen en ontwikkeld, evenals verscheidene analyses op de OV Chipkaart data uitgevoerd.
+__SAS consultant__ at [_Nederlandse Spoorwegen_](https://www.ns.nl/en)
+As a consultant for the Dutch Railroads, I worked on developing a custom tool to administer reference and master data for their datawarehouse, as well as develop the first iteration of the datawarehouse concerning the OV Chipkaart.
 
 `2008-2009`
-__SAS consultant__ bij [_Belastingdienst_](https://www.belastingdienst.nl/)
+__SAS consultant__ at [_Belastingdienst_](https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/individuals)
+As a junior SAS consultant, I worked in the team delivering the datawarehouse for Toeslagen 2009 - a datawarehouse based on datavault modelling.
 
-Bij de Belastingdienst heb ik als onderdeel van project Toeslagen 2009 een datawarehouse mee-ontwikkeld op basis van Data Vault.
-
-## Opleiding en Cursussen
+## Education & courses
 
 `2020`
 __Deeplearning.ai via coursera.org__
@@ -129,10 +111,10 @@ __PW Consulting, Culemborg__
 
 `1999-2005`
 __Eindhoven University of Technology__
-- Master of Science in Technische Bedrijfskunde
+- Master of Science in Industrial Engineering and Management Science
 
 
-## Certificaten
+## Certification
 
 `2019`
 [Professional Scrum Product Owner I](https://www.credly.com/badges/f30f95e1-5fed-49bb-8e06-74cf9e5ff5ca/public_url)
