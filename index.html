@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Victor van den Broek - Solutions Architect</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+            min-height: 100vh;
+        }
+
+        .header {
+            text-align: center;
+            padding: 40px 0;
+            border-bottom: 3px solid #007bff;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            color: #007bff;
+            margin-bottom: 10px;
+            font-weight: 300;
+        }
+
+        .header .title {
+            font-size: 1.3rem;
+            color: #666;
+            margin-bottom: 20px;
+            font-weight: 500;
+        }
+
+        .webaddress {
+            font-size: 1.1rem;
+            color: #555;
+        }
+
+        .webaddress a {
+            color: #007bff;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .webaddress a:hover {
+            color: #0056b3;
+            text-decoration: underline;
+        }
+
+        .section {
+            margin-bottom: 40px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            border-left: 4px solid #007bff;
+        }
+
+        .section h2 {
+            color: #007bff;
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .summary {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: #555;
+            font-style: italic;
+        }
+
+        .current {
+            background-color: #e3f2fd;
+            border-left-color: #2196f3;
+        }
+
+        .current h2 {
+            color: #2196f3;
+        }
+
+        .employment-item, .project-item, .education-item, .certification-item {
+            margin-bottom: 25px;
+            padding: 15px;
+            background-color: white;
+            border-radius: 6px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .employment-item:hover, .project-item:hover, .education-item:hover, .certification-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+
+        .year {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .role {
+            font-weight: bold;
+            font-size: 1.1rem;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .company {
+            color: #007bff;
+            font-weight: 500;
+            margin-bottom: 10px;
+        }
+
+        .company a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .company a:hover {
+            text-decoration: underline;
+        }
+
+        .description {
+            color: #666;
+            line-height: 1.6;
+        }
+
+        .certification-item .badge-link {
+            display: inline-block;
+            background-color: #28a745;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 6px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .certification-item .badge-link:hover {
+            background-color: #218838;
+        }
+
+        .print-button {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background-color 0.3s ease;
+            z-index: 1000;
+        }
+
+        .print-button:hover {
+            background-color: #0056b3;
+        }
+
+        @media print {
+            .print-button {
+                display: none;
+            }
+            
+            .container {
+                box-shadow: none;
+                padding: 0;
+            }
+            
+            .section {
+                break-inside: avoid;
+                margin-bottom: 20px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+                margin: 0;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .header .title {
+                font-size: 1.1rem;
+            }
+            
+            .section {
+                padding: 15px;
+                margin-bottom: 25px;
+            }
+            
+            .employment-item, .project-item, .education-item, .certification-item {
+                padding: 12px;
+            }
+            
+            .print-button {
+                top: 10px;
+                right: 10px;
+                padding: 8px 16px;
+                font-size: 0.9rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .header {
+                padding: 20px 0;
+            }
+            
+            .header h1 {
+                font-size: 1.8rem;
+            }
+            
+            .section h2 {
+                font-size: 1.3rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <button class="print-button" onclick="window.print()">🖨️ Print CV</button>
+    
+    <div class="container">
+        <div class="header">
+            <h1>Victor van den Broek</h1>
+            <div class="title">Solutions Architect</div>
+            <div class="webaddress">
+                victor at <a href="https://vdb.ai/en/">vdb.ai</a> | <a href="https://www.linkedin.com/in/victorvdb/">LinkedIn</a>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>In summary</h2>
+            <div class="summary">
+                I have a curious and pragmatic mindset. By focussing on what really matters to the business, I add value quickly, but also care for longer term perspectives and embedding solutions within the organisation.
+            </div>
+        </div>
+
+        <div class="section current">
+            <h2>Currently</h2>
+            <div class="employment-item">
+                <div class="role"><strong>Solutions Architect</strong> at <a href="https://databricks.com">databricks</a></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Employment History</h2>
+            
+            <div class="employment-item">
+                <div class="year">2020-2023</div>
+                <div class="role"><strong>Freelance data professional</strong></div>
+                <div class="company">at <a href="https://vdb.ai">vdb.ai</a></div>
+            </div>
+
+            <div class="employment-item">
+                <div class="year">2018-2021</div>
+                <div class="role"><strong>Angel investor and partner</strong></div>
+                <div class="company">at Cubonacci (now part of <a href="https://databricks.com/blog/2021/07/02/a-shared-vision-for-data-teams-why-cubonacci-joined-databricks.html">Databricks</a>)</div>
+            </div>
+
+            <div class="employment-item">
+                <div class="year">2010-2020</div>
+                <div class="role"><strong>Data scientist and partner</strong></div>
+                <div class="company">at Maneros (now part of <a href="https://digital-power.com/maneros">Digital Power</a>)</div>
+            </div>
+
+            <div class="employment-item">
+                <div class="year">2008-2010</div>
+                <div class="role"><strong>SAS consultant</strong></div>
+                <div class="company">at <a href="https://www.pwconsulting.nl">PW Consulting</a></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Projects at customers</h2>
+            
+            <div class="project-item">
+                <div class="year">2022</div>
+                <div class="role"><strong>Primary data lecturer</strong></div>
+                <div class="company">at <a href="https://www.dnb.nl/en/">De Nederlandsche Bank</a></div>
+                <div class="description">
+                    For the Dutch Central bank, I have developed an in-company training to teach the basic skills pertaining to data. This encompasses areas such as data management, data governance, data science and visualization. I teach this course along with other teachers to a large number of employees at the bank (> 200 employees)
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2019-2022</div>
+                <div class="role"><strong>Lecturer data science for business</strong></div>
+                <div class="company">at <a href="https://www.internatonalhu.com">Utrecht University of Applied Sciences</a></div>
+                <div class="description">
+                    Together with two other teachers I teach the course Data Science for Business. The part time students can either have a data or a business background, and the course teaches data science basics, along with CRISP-DM as a framework to ensure business value.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2021-2022</div>
+                <div class="role"><strong>Interim product owner advanced analytics</strong></div>
+                <div class="company">at <a href="https://www.ns.nl/en">Nederlandse Spoorwegen</a></div>
+                <div class="description">
+                    As a product owner of a newly formed team, I was responsible for the re-development of a traveller model. Four legacy models existed, with conflicting requirements and results, which needed to be merged into one model, in the Azure cloud using Databricks.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2020-2021</div>
+                <div class="role"><strong>Information architect</strong></div>
+                <div class="company">at <a href="https://www.ns.nl/en">Nederlandse Spoorwegen</a></div>
+                <div class="description">
+                    For the department ComIT (Commerce + IT) I have analysed and mapped the required data and information architecture for several projects. Many of them were related to a legacy-to-cloud migration.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2019-2021</div>
+                <div class="role"><strong>Data science engineer</strong></div>
+                <div class="company">at <a href="https://www.ns.nl/en">Nederlandse Spoorwegen</a></div>
+                <div class="description">
+                    For NS Stations I improved an existing traveller model, by developing a bespoke machine learning architecture that could optimize several necessary parameters. The results formed the basis for the model that would be developed in the Azure cloud (see Interim PO @ NS)
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2019-2020</div>
+                <div class="role"><strong>Data architect</strong></div>
+                <div class="company">at <a href="https://www.rnw.org">RNW Media</a></div>
+                <div class="description">
+                    For RNW Media (a non-profit) I was responsible for developing a data architecture, and to develop support for implementing it when necessary. The end result - a data architecture on GCP using Apache Airflow was later developed and implemented.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2019</div>
+                <div class="role"><strong>Data scientist</strong></div>
+                <div class="company">at <a href="https://www.vitens.nl">Vitens</a></div>
+                <div class="description">
+                    At Vitens (a water company) I took up several analyses and data science topics, surrounding customer satisfaction and speech analytics.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2017-2018</div>
+                <div class="role"><strong>Agile data scientist</strong></div>
+                <div class="company">at <a href="https://www.vgz.nl/english">VGZ</a></div>
+                <div class="description">
+                    During the agile transition of VGZ (a major health insurer) in the Netherlands, I assisted in improving the team's agile maturity, as well as work on several epics concerning customer churn and customer value.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2014</div>
+                <div class="role"><strong>Workstream lead business intelligence and datawarehousing</strong></div>
+                <div class="company">at <a href="https://www.officedepot.eu">Office Depot Europe</a></div>
+                <div class="description">
+                    During a lean six sigma transformation project, I took up the rol of workstream lead BI & DWH, with the resposibility to deliver an organizational structure and identify architectural changes needed.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2012-2014</div>
+                <div class="role"><strong>Business intelligence architect</strong></div>
+                <div class="company">at <a href="https://www.officedepot.eu">Office Depot Europe</a></div>
+                <div class="description">
+                    Part of a program called World Class BI, I was responsible to define the SOLL architecture of the BI enviroment. The work on the IST situation was a shared responsibility, due to amount of work required. The program was superseded by a lean six sigma business transformation project.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2011-2017</div>
+                <div class="role"><strong>Data scientist</strong></div>
+                <div class="company">at <a href="https://www.ns.nl/en">Nederlandse Spoorwegen</a></div>
+                <div class="description">
+                    At the Dutch Railroads I delivered several projects, from initiation to delivery, with consultants from Maneros, together with employees from NS. These projects were surrounding traveller-flow, customer satisfaction, customer investment models, and queue modelling.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2010-2012</div>
+                <div class="role"><strong>SAS consultant</strong></div>
+                <div class="company">at <a href="https://www.officedepot.eu">Office Depot Europe</a></div>
+                <div class="description">
+                    As an independent contractor, I went from operationally supporting the mail selection department, to working out a proof of concept for a major improvement on the tooling they were using, to rolling out those improvements over Europe.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2009-2010</div>
+                <div class="role"><strong>SAS consultant</strong></div>
+                <div class="company">at <a href="https://www.ns.nl/en">Nederlandse Spoorwegen</a></div>
+                <div class="description">
+                    As a consultant for the Dutch Railroads, I worked on developing a custom tool to administer reference and master data for their datawarehouse, as well as develop the first iteration of the datawarehouse concerning the OV Chipkaart.
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="year">2008-2009</div>
+                <div class="role"><strong>SAS consultant</strong></div>
+                <div class="company">at <a href="https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/individuals">Belastingdienst</a></div>
+                <div class="description">
+                    As a junior SAS consultant, I worked in the team delivering the datawarehouse for Toeslagen 2009 - a datawarehouse based on datavault modelling.
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Education & courses</h2>
+            
+            <div class="education-item">
+                <div class="year">2020</div>
+                <div class="role"><strong>Deeplearning.ai via coursera.org</strong></div>
+                <div class="description">
+                    - <a href="https://coursera.org/share/d1490e08649f1555629f246e82cae349">Generative adversarial networks</a>
+                </div>
+            </div>
+
+            <div class="education-item">
+                <div class="year">2017-2018</div>
+                <div class="role"><strong>Deeplearning.ai via coursera.org</strong></div>
+                <div class="description">
+                    - <a href="https://coursera.org/share/9632c7003388406a8c5efad9c727302a">Deep learning specialization</a>
+                </div>
+            </div>
+
+            <div class="education-item">
+                <div class="year">2015</div>
+                <div class="role"><strong>Johns Hopkins University via coursera.org</strong></div>
+                <div class="description">
+                    - <a href="https://coursera.org/share/785ee18a8f8355d65a8e50f434625206">Data Science specialization</a>
+                </div>
+            </div>
+
+            <div class="education-item">
+                <div class="year">2008</div>
+                <div class="role"><strong>PW Consulting, Culemborg</strong></div>
+                <div class="description">- SAS masterclass</div>
+            </div>
+
+            <div class="education-item">
+                <div class="year">1999-2005</div>
+                <div class="role"><strong>Eindhoven University of Technology</strong></div>
+                <div class="description">- Master of Science in Industrial Engineering and Management Science</div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Certification</h2>
+            
+            <div class="certification-item">
+                <div class="year">2019</div>
+                <div class="role"><strong>Professional Scrum Product Owner I</strong></div>
+                <div class="description">
+                    <a href="https://www.credly.com/badges/f30f95e1-5fed-49bb-8e06-74cf9e5ff5ca/public_url" class="badge-link">View Badge</a>
+                </div>
+            </div>
+
+            <div class="certification-item">
+                <div class="year">2012</div>
+                <div class="role"><strong>SAS Data Integration</strong></div>
+                <div class="description">
+                    <a href="https://www.credly.com/badges/43a617e5-ad93-4f1a-8531-e1e239f6ba66/public_url" class="badge-link">View Badge</a>
+                </div>
+            </div>
+
+            <div class="certification-item">
+                <div class="year">2010</div>
+                <div class="role"><strong>SAS Advanced Programming</strong></div>
+                <div class="description">
+                    <a href="https://www.credly.com/badges/1359fb4a-7962-40d6-81e7-a3e65a8b143a/public_url" class="badge-link">View Badge</a>
+                </div>
+            </div>
+
+            <div class="certification-item">
+                <div class="year">2009</div>
+                <div class="role"><strong>SAS Base Programming</strong></div>
+                <div class="description">
+                    <a href="https://www.credly.com/badges/36005d4f-630b-4a84-8945-e56cc4f172d9/public_url" class="badge-link">View Badge</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Add smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Add fade-in animation for sections
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        // Apply initial styles and observe sections
+        document.querySelectorAll('.section').forEach(section => {
+            section.style.opacity = '0';
+            section.style.transform = 'translateY(20px)';
+            section.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+            observer.observe(section);
+        });
+
+        // Add hover effects for employment items
+        document.querySelectorAll('.employment-item, .project-item, .education-item, .certification-item').forEach(item => {
+            item.addEventListener('mouseenter', function() {
+                this.style.transform = 'translateY(-5px) scale(1.02)';
+            });
+            
+            item.addEventListener('mouseleave', function() {
+                this.style.transform = 'translateY(0) scale(1)';
+            });
+        });
+
+        // Print functionality enhancement
+        function printCV() {
+            window.print();
+        }
+
+        // Add keyboard shortcut for print (Ctrl/Cmd + P)
+        document.addEventListener('keydown', function(e) {
+            if ((e.ctrlKey || e.metaKey) && e.key === 'p') {
+                e.preventDefault();
+                printCV();
+            }
+        });
+    </script>
+</body>
+</html>
